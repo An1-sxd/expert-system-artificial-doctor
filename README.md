@@ -1,7 +1,7 @@
 # 🩺 ArtDoc AI - Medical Expert System
 
 ArtDoc AI is a modern, interactive medical expert system designed to assist in diagnostic reasoning. It utilizes a knowledge-based engine to perform **Forward Chaining** for diagnosis and **Backward Chaining** for hypothesis verification.
-Download for windows: [Download](output/Artificial%20Doctor.zip)
+Download for windows: <a href="output/Artificial%20Doctor.zip" download>Download</a>
 
 ## ✨ Features
 
