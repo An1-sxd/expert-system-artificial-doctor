@@ -4,7 +4,7 @@ ArtDoc AI is a modern, interactive medical expert system designed to assist in d
 Download for windows: 
 
 <p align="center">
-[![Download for Windows](https://img.shields.io/badge/⬇️_Download_for_Windows-7C3AED?style=for-the-badge&labelColor=2563EB&color=7C3AED)](output/Artificial%20Doctor.zip)
+[![Download for Windows](https://img.shields.io/badge/⬇️_Download_for_Windows-7C3AED?style=for-the-badge&labelColor=2563EB&color=7C3AED)](./output/Artificial%20Doctor.zip)
 </p>
 
 ## ✨ Features
