@@ -15,6 +15,7 @@ Download for windows: <a href="output/Artificial%20Doctor.zip" download>Download
     ⬇ Download File
   </button>
 </a>
+[![Download](https://img.shields.io/badge/Download-File-blue?style=for-the-badge)](output/Artificial%20Doctor.zip)
 
 ## ✨ Features
 
